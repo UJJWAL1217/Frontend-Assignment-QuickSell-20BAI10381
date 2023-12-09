@@ -1,6 +1,25 @@
 # Frontend Assignment QuickSell 20BAI10381 Ujjwal Tajne
-# 
 
-![Desktop Screenshot 1](./preview/Desktop-1.png)
-![Desktop Screenshot 2](./preview/Desktop-2.png)
-![Mobile Screenshot 1](./preview/Mobile-1.png)
+## Display State
+
+![Display_State](./UIPreview/DisplayState.png)
+
+ ## Grouping By Priority Is Selected And Ordering Priority
+ 
+![GroupingByPriorityIsSelectedAndOrderingPriority](./UIPreview/GroupingByPriorityIsSelectedAndOrderingPriority.png)
+
+## Grouping By Priority Is Selected And Ordering Title
+
+![Mobile Screenshot 1](./UIPreview/GroupingByPriorityIsSelectedAndOrderingTitle.png)
+
+## GroupingByUserIsSelectedAndOrderingTitle
+
+![GroupingByUserIsSelectedAndOrderingTitle](./UIPreview/GroupingByUserIsSelectedAndOrderingTitle.png)
+
+## Grouping By User Is Selected And Ordering Priority
+
+![GroupingByUserIsSelectedAndOrderingPriority](./UIPreview/GroupingByUserIsSelectedAndOrderingPriority.png)
+
+## Mobile Screenshot
+
+![mobileSS](./UIPreview/mobileSS.jpg)
