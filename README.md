@@ -1,5 +1,7 @@
 # Frontend Assignment QuickSell 20BAI10381 Ujjwal Tajne
 
+# Hosted URL : https://frontend-assignment-quick-sell-20-bai-10381.vercel.app/
+
 ## Display State
 
 ![Display_State](./UIPreview/DisplayState.png)
